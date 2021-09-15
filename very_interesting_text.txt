@@ -20,4 +20,7 @@ his text here.
 Before merging the two branches, AStudent
 writes a very nice conclusion for the document
 and commits it.
-*PLACE HOLDER: (ASTUDENT or BSTUDENT)'S TEXT*
+
+
+And our story ends here, sorry.
+Thanks for all the fish!
